@@ -3,7 +3,7 @@
 I'm Mekhi, a Cybersecurity student at Capitol Technology University
 interested in IT, networking, and cybersecurity.
 
-I'm currently working toward gaining real-world experience in IT and networking
+I'm currently looking to gain real-world experience in IT and networking
 while continuing to expand my skills.
 
 ## Certifications
