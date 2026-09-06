@@ -1,31 +1,33 @@
-# Hi, I'm Mekhi 👋
+# Hey there 👋
 
-I'm a Cybersecurity student at Capitol Technology University
+I'm Mekhi, a Cybersecurity student at Capitol Technology University
 interested in IT, networking, and cybersecurity.
+
+I enjoy learning through hands-on labs, experimenting with different
+technologies, and building projects that help me develop my technical skills.
+
+I'm currently working toward gaining real-world experience in IT and networking
+while continuing to expand my skills.
 
 ## Certifications
 
-- Cisco CCNA
-- CompTIA Security+
-- CompTIA Network+
+- 🎓 Cisco CCNA
+- 🔐 CompTIA Security+
+- 🌐 CompTIA Network+
 
-## Tools & Technologies
+## Tools & Tech
 
-- Networking: Cisco IOS, VLANs, OSPF, STP, IPv4/IPv6
-- Security: Network Security, ACLs, Password Security
-- Operating Systems: Linux, macOS, Windows
-- Tools: Wireshark, Packet Tracer, Git
-
-## Projects
-
-[Projects will go here]
+- Cisco IOS, VLANs, OSPF, STP, IPv4/IPv6
+- Network Security, ACLs, Password Security
+- Linux, macOS, Windows
+- Wireshark, Packet Tracer, Git
 
 ## A Bit About Me
 
-- 🎓 Studying Cybersecurity at Capitol Tech
-- 🌐 Interested in networking and infrastructure
-- 💻 Enjoy learning through hands-on labs and projects
-- 🚀 Currently building my IT and networking skills
+- 🎓 I'm studying Cybersecurity at Capitol Tech
+- 🌐 I'm particularly interested in networking and infrastructure
+- 💻 I enjoy hands-on technical work and troubleshooting
+- 🚀 Currently building my skills through projects and labs
 
 <!--
 **Kiritokhi06/Kiritokhi06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
