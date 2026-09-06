@@ -3,17 +3,14 @@
 I'm Mekhi, a Cybersecurity student at Capitol Technology University
 interested in IT, networking, and cybersecurity.
 
-I enjoy learning through hands-on labs, experimenting with different
-technologies, and building projects that help me develop my technical skills.
-
 I'm currently working toward gaining real-world experience in IT and networking
 while continuing to expand my skills.
 
 ## Certifications
 
-- 🎓 Cisco CCNA
-- 🔐 CompTIA Security+
-- 🌐 CompTIA Network+
+- Cisco CCNA
+- CompTIA Security+
+- CompTIA Network+
 
 ## Tools & Tech
 
@@ -24,7 +21,6 @@ while continuing to expand my skills.
 
 ## A Bit About Me
 
-- 🎓 I'm studying Cybersecurity at Capitol Tech
 - 🌐 I'm particularly interested in networking and infrastructure
 - 💻 I enjoy hands-on technical work and troubleshooting
 - 🚀 Currently building my skills through projects and labs
